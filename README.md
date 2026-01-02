@@ -15,12 +15,12 @@ The app allows you to:
 
 Starting view:
 
-<img src="screenshots/calendar_start.jpg" alt="Starting view" width="50%"/>
+<img src="screenshots/calendar_start.jpg" alt="Starting view" width="40%"/>
 
 
 Calculated shifts:
 
-<img src="screenshots/calendar_calculated.jpg" alt="Calculated shifts" width="50%"/>
+<img src="screenshots/calendar_calculated.jpg" alt="Calculated shifts" width="40%"/>
 
 
 ## Features
