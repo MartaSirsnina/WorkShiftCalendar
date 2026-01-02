@@ -53,3 +53,8 @@ Calculated shifts:
 
 ```bash
 git clone https://github.com/MartaSirsnina/WorkShiftCalendar.git
+```
+
+2. Open the project in Android Studio.
+
+3. Build and run the app on your device or emulator.
